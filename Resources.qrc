@@ -1,2 +1,34 @@
-<!DOCTYPE RCC>
-<RCC version="1.0"/>
+<RCC>
+    <qresource prefix="/images">
+        <file>images/iconfinder_document-save-as_23221.png</file>
+        <file>images/iconfinder_edit-copy_118918.png</file>
+        <file>images/iconfinder_edit-cut_118919.png</file>
+        <file>images/iconfinder_edit-select-all_118925.png</file>
+        <file>images/iconfinder_file-directory_298771.png</file>
+        <file>images/iconfinder_floppy_285657.png</file>
+        <file>images/iconfinder_floppy_disk_save_103863.png</file>
+        <file>images/iconfinder_folder-open_1608888.png</file>
+        <file>images/iconfinder_ic_wrap_text_48px_352229.png</file>
+        <file>images/iconfinder_Open_1493293.png</file>
+        <file>images/iconfinder_Paste_1493290.png</file>
+        <file>images/iconfinder_printer_39263.png</file>
+        <file>images/iconfinder_Redo_1493284.png</file>
+        <file>images/iconfinder_Save_70652.png</file>
+        <file>images/iconfinder_Save_1493294.png</file>
+        <file>images/iconfinder_save_2639912.png</file>
+        <file>images/iconfinder_Save-as_85541.png</file>
+        <file>images/iconfinder_Undo_1493283.png</file>
+        <file>images/iconfinder_new10_216291.png</file>
+        <file>images/iconfinder_filesave_6046.png</file>
+        <file>images/iconfinder_filesaveas_6047.png</file>
+        <file>images/iconfinder_22_171495.png</file>
+        <file>images/iconfinder_13_-_Question_1815562.png</file>
+        <file>images/iconfinder_NOTEPAD_16938.png</file>
+        <file>images/iconfinder_vector_65_13_473800.png</file>
+        <file>images/iconfinder_MetroUI_Notepad_Alt_176652.png</file>
+        <file>images/iconfinder_27_Pdf_File_Type_Adobe_4518956.png</file>
+        <file>images/iconfinder_24_2065219.png</file>
+        <file>images/iconfinder_document-print_118913.png</file>
+        <file>images/iconfinder_document-print-preview_118912.png</file>
+    </qresource>
+</RCC>
